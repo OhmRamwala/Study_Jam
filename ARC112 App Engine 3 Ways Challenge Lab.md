@@ -1,6 +1,6 @@
 # App Engine: 3 Ways: Challenge Lab || [ARC112](https://www.cloudskillsboost.google/focuses/63241?parent=catalog) ||
 
-## Solution [here](https://youtu.be/sX1-LFEsizo)
+## Solution 
 
 ### Run the following Commands in CloudShell
 
@@ -22,6 +22,3 @@ sudo chmod +x arc112.sh
 
 #### *Well done!*
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
