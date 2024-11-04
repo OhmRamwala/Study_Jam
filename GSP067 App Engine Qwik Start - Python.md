@@ -1,6 +1,6 @@
 # App Engine: Qwik Start - Python || [GSP067](https://www.cloudskillsboost.google/focuses/1014?parent=catalog) ||
 
-## Solution [here](https://youtu.be/Lq7ZW37tUIM)
+## Solution
 
 ### Run the following Commands in CloudShell
 
@@ -21,6 +21,3 @@ sudo chmod +x gsp067.sh
 
 #### *Well done!*
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
